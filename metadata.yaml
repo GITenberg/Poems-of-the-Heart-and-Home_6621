@@ -1,0 +1,28 @@
+_repo: Poems-of-the-Heart-and-Home_6621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yule, J. C., Mrs.
+    aliases:
+    - Yule, Mrs. J. C.
+    - Vining, Pamelia S.
+    - Yule, Pamela S. Vining
+    birthdate: 1825
+    deathdate: 1897
+    gutenberg_agent_id: '2115'
+    url: http://www.gutenberg.org/2009/agents/2115
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: Poems of the Heart and Home
+url: http://www.gutenberg.org/ebooks/6621
